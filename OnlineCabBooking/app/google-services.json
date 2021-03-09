@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "929786524794",
+    "project_id": "onlinecabbooking-8a63f",
+    "storage_bucket": "onlinecabbooking-8a63f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929786524794:android:2ce6f06b5a0832930b37c3",
+        "android_client_info": {
+          "package_name": "com.aspiresys.makemyride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929786524794-ef4qjk34b93hp0bhq6279uf9oqne8fqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9u5Tm4VhKoC0rajK03U0X3tmipiRAEa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929786524794-ef4qjk34b93hp0bhq6279uf9oqne8fqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929786524794:android:1c774481a5c992220b37c3",
+        "android_client_info": {
+          "package_name": "com.mkstudio.mycab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929786524794-ef4qjk34b93hp0bhq6279uf9oqne8fqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9u5Tm4VhKoC0rajK03U0X3tmipiRAEa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929786524794-ef4qjk34b93hp0bhq6279uf9oqne8fqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

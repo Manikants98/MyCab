@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Online-Cab-Booking-Android-Application-master.iml" filepath="$PROJECT_DIR$/.idea/Online-Cab-Booking-Android-Application-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cabbies/cabbies.iml" filepath="$PROJECT_DIR$/cabbies/cabbies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rovers/rovers.iml" filepath="$PROJECT_DIR$/rovers/rovers.iml" />
+    </modules>
+  </component>
+</project>
